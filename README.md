@@ -1,34 +1,35 @@
-# Industrial Grade RISC-V MCU – CH32X035
-EN | [中文](README_zh.md)
+# میکروکنترلر صنعتی مبتنی بر RISC-V – CH32X035
 
+[فارسی] | [中文](README_zh.md)
 
+### معرفی
 
-### Overview
-The CH32X035 is an industrial-grade MCU based on RISC-V core.The CH32X035 built-in USB and PD PHY,supports USB Host and USB Device functions, USB PD and type C fast charging functions, built-in programmable protocol I/O controller.The CH32X035 provides 2 groups of OPA operational amplifiers, 3 groups of CMP voltage comparators, 4 groups of USART serial ports, I2C, SPI, multi-group timers, 12-bit ADC, 14-way Touchkey and other rich peripheral resources.
+میکروکنترلر **CH32X035** محصولی صنعتی مبتنی بر هسته‌ی **RISC-V** است. این تراشه به‌صورت داخلی به لایه‌ی فیزیکی (PHY) مربوط به **USB** و **USB Power Delivery (PD)** مجهز شده و از عملکردهای **USB Host** و **USB Device**، همچنین قابلیت‌های **USB PD** و شارژ سریع **USB Type-C** پشتیبانی می‌کند.
 
- 
-### Features
-- Qingke V4C Core;
-- Single-cycle multiplication and hardware division;
-- 20KB SRAM, 62KB Flash;
-- Supply voltage: 5V/3.3V;
-- Low-power modes: sleep/stop/standby;
-- Built-in 48MHz clock oscillator
-- Power-on/power-down reset (POR/PDR), programmable voltage detector (PVD);
-- 1 x 8-channel general DMA controllers
-- Programmable Protocol I/O Controller PIOC
-- 2 sets of operational amplifiers OPA/PGA/voltage comparator
-- 3 groups of analog voltage comparators CMP
-- 12-bit ADC, 14-channel TouchKey;
-- 2 advanced timers, 1 general purpose timer, 1 basic timer, 2 watchdog timers
-- One USB2.0 full-speed host/device interface;
-- USB PD and Type C controller and PHY
-- 4 UARTs;
-- 1 IIC interfaces, 1 SPI interfaces;
-- 60 I/O ports, can be mapped to 24 external interrupts;
-- Security feature: chip unique ID;
-- Serial 2-wire debug interface;
-- Packages: LQFP、QFN、QSOP、TSSOP;
+این میکروکنترلر دارای کنترل‌گر ورودی/خروجی با پروتکل قابل‌برنامه‌ریزی (**PIOC**) است و مجموعه‌ای از واحدهای جانبی متنوع را در اختیار طراح قرار می‌دهد؛ از جمله دو گروه تقویت‌کننده‌ی عملیاتی (**OPA**)، سه گروه مقایسه‌گر ولتاژ (**CMP**)، چهار رابط سریال **USART**، رابط‌های **I²C** و **SPI**، چندین تایمر، مبدل آنالوگ به دیجیتال ۱۲ بیتی (**ADC**) و ۱۴ کانال ورودی لمسی (**TouchKey**).
 
+### ویژگی‌ها و امکانات
 
-
+- هسته‌ی پردازشی **QingKe V4C** مبتنی بر معماری **RISC-V**
+- واحد ضرب تک‌چرخه‌ای و تقسیم سخت‌افزاری
+- حافظه‌ی **20 KB SRAM** و **62 KB Flash**
+- ولتاژ تغذیه: **5V / 3.3V**
+- حالت‌های کم‌مصرف: **Sleep / Stop / Standby**
+- اسیلاتور کلاک داخلی با فرکانس **48 MHz**
+- مدارهای ریست هنگام روشن‌شدن و افت ولتاژ تغذیه (**POR/PDR**)
+- آشکارساز ولتاژ قابل‌برنامه‌ریزی (**PVD**)
+- یک کنترل‌گر عمومی **DMA** با ۸ کانال
+- کنترل‌گر ورودی/خروجی با پروتکل قابل‌برنامه‌ریزی (**PIOC**)
+- دو مجموعه تقویت‌کننده‌ی عملیاتی و تقویت‌کننده‌ی قابل‌برنامه‌ریزی (**OPA/PGA**) با قابلیت مقایسه‌گر ولتاژ
+- سه گروه مقایسه‌گر ولتاژ آنالوگ (**CMP**)
+- مبدل **ADC** با دقت ۱۲ بیت و ۱۴ کانال ورودی لمسی (**TouchKey**)
+- دو تایمر پیشرفته، یک تایمر عمومی و یک تایمر پایه
+- دو تایمر نگهبان (**Watchdog**)
+- یک رابط **USB 2.0 Full-Speed** با قابلیت کار در حالت‌های **Host** و **Device**
+- کنترل‌گر و لایه‌ی فیزیکی **USB PD** و **USB Type-C**
+- چهار رابط **UART**
+- یک رابط **I²C** و یک رابط **SPI**
+- تعداد ۶۰ پایه‌ی ورودی/خروجی (**I/O**) با قابلیت نگاشت به ۲۴ وقفه‌ی خارجی
+- قابلیت امنیتی شناسه‌ی منحصربه‌فرد تراشه (**Chip Unique ID**)
+- رابط اشکال‌زدایی سریال دو سیمه (**Serial 2-Wire Debug Interface**)
+- انواع پکیج: **LQFP، QFN، QSOP و TSSOP**
