@@ -33,3 +33,17 @@
 - قابلیت امنیتی شناسه‌ی منحصربه‌فرد تراشه (**Chip Unique ID**)
 - رابط اشکال‌زدایی سریال دو سیمه (**Serial 2-Wire Debug Interface**)
 - انواع پکیج: **LQFP، QFN، QSOP و TSSOP**
+
+## تهیه و تدوین
+
+---
+
+**معمار الکترونیک صنعت**  
+**MEMAR ELECTRONIC SANAT (MES)**
+
+همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
+
+- کانال تلگرام: [https://t.me/Memar_Electronic](https://t.me/Memar_Electronic)
+- پیج اینستاگرام: [https://www.instagram.com/Memar.Electronic](https://www.instagram.com/Memar.Electronic)
+
+[مشاهده سایر آموزش‌ها](https://github.com/MEMAR-ELECTRONIC-SANAT)
