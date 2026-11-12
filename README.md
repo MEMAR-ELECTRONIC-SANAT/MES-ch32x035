@@ -34,6 +34,8 @@
 - رابط اشکال‌زدایی سریال دو سیمه (**Serial 2-Wire Debug Interface**)
 - انواع پکیج: **LQFP، QFN، QSOP و TSSOP**
 
+![MES Divider](Images/MES-Divider.svg)
+
 ## تهیه و تدوین
 
 ---
