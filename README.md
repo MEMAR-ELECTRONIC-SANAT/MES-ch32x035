@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="360" alt="MES Animated Logo">
+
 </p>
 
 # میکروکنترلر صنعتی مبتنی بر RISC-V – CH32X035
@@ -16,11 +16,9 @@
 
 این میکروکنترلر دارای کنترل‌گر ورودی/خروجی با پروتکل قابل‌برنامه‌ریزی (**PIOC**) است و مجموعه‌ای از واحدهای جانبی متنوع را در اختیار طراح قرار می‌دهد؛ از جمله دو گروه تقویت‌کننده‌ی عملیاتی (**OPA**)، سه گروه مقایسه‌گر ولتاژ (**CMP**)، چهار رابط سریال **USART**، رابط‌های **I²C** و **SPI**، چندین تایمر، مبدل آنالوگ به دیجیتال ۱۲ بیتی (**ADC**) و ۱۴ کانال ورودی لمسی (**TouchKey**).
 
-
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="CH32X035 Features and Peripherals">
 </p>
-
 
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Project-Card.svg" width="100%" alt="CH32X035 MCU Overview and Design Resources">
@@ -56,7 +54,6 @@
   <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
 </p>
 
-
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Status-Strip.svg" width="100%" alt="MES Embedded Engineering Resources">
 </p>
@@ -65,7 +62,7 @@
 
 ---
 
-**معمار الکترونیک صنعت**  
+**معمار الکترونیک صنعت**
 **MEMAR ELECTRONIC SANAT (MES)**
 
 همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
@@ -75,7 +72,8 @@
 
 [مشاهده سایر آموزش‌ها](https://github.com/MEMAR-ELECTRONIC-SANAT)
 
-
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
 </p>
+
+![MES Animated Logo](Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
