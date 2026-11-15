@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="360" alt="MES Animated Logo">
+</p>
+
 # 工业级RISC-V单片机 CH32X035
 
 [EN](README.md) | 中文
