@@ -15,3 +15,5 @@ EN | [中文](README_zh.md)
 * WCH-LinkSCH.PDF-https://www.wch.cn/downloads/WCH-LinkSCH_PDF.html
 * WCH-LinkUserManual.PDF-http://www.wch-ic.com/downloads/WCH-LinkUserManual_PDF.html
 * WCH-LinkUtility.ZIP-https://www.wch.cn/downloads/WCH-LinkUtility_ZIP.html
+
+![MES Animated Logo](../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
