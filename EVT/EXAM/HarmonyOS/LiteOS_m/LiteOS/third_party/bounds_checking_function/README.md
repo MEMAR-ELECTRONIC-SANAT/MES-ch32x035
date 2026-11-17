@@ -5,4 +5,6 @@
 - 未来将分析C11 Annex K中的其他标准函数，如果有必要，将在该组织中实现。
 - 处理边界检查函数的版本发布、更新以及维护。
 
-![MES Animated Logo](../../../../../../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
+<p align="center">
+  <img src="../../../../../../../Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="140" alt="MES Animated Logo">
+</p>
