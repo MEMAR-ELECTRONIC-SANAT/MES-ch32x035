@@ -10,6 +10,26 @@
 
 [فارسی] | [中文](README_zh.md)
 
+## منبع اصلی و توضیحات ترجمه / Original Source and Translation Notice
+
+### فارسی
+
+منبع اصلی این پروژه، مخزن رسمی **CH32X035** متعلق به شرکت **WCH** است:
+
+- **مخزن اصلی:** [https://github.com/openwch/ch32x035](https://github.com/openwch/ch32x035)
+
+این مخزن با هدف ارائه محتوای پروژه به زبان فارسی تهیه شده است. مطالب و توضیحات موجود در آن از منبع اصلی WCH ترجمه شده‌اند؛ بنابراین این مخزن به‌عنوان یک پروژه مستقل یا اثر تألیفی جدید معرفی نمی‌شود. محتوای فنی، کدهای نمونه، فایل‌ها و ساختار اصلی پروژه متعلق به منبع اصلی هستند و برای دریافت نسخه به‌روز و بررسی تغییرات، به مخزن رسمی WCH مراجعه کنید.
+
+### English
+
+The original source of this project is WCH's official **CH32X035** repository:
+
+- **Original repository:** [https://github.com/openwch/ch32x035](https://github.com/openwch/ch32x035)
+
+This repository is provided to make the project content available in Persian. The materials and descriptions are translated from the original WCH repository. It is not presented as an independently developed project or a new original work. The technical content, example code, files, and original project structure belong to the upstream source. Please refer to the official WCH repository for the latest version and updates.
+
+## تصاویر و دیاگرام‌های راهنما
+
 ### معرفی
 
 میکروکنترلر **CH32X035** محصولی صنعتی مبتنی بر هسته‌ی **RISC-V** است. این تراشه به‌صورت داخلی به لایه‌ی فیزیکی (PHY) مربوط به **USB** و **USB Power Delivery (PD)** مجهز شده و از عملکردهای **USB Host** و **USB Device**، همچنین قابلیت‌های **USB PD** و شارژ سریع **USB Type-C** پشتیبانی می‌کند.
@@ -77,5 +97,5 @@
 </p>
 
 <p align="center">
-  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="140" alt="MES Animated Logo">
+  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="180" alt="MES Animated Logo">
 </p>
